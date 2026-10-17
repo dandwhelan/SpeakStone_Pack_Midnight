@@ -3733,6 +3733,7 @@ SpeakStoneSoundLengths_Pack_Midnight = {
     ["97071_description.ogg"] = 16.40,
     ["97072_completion.ogg"] = 23.84,
     ["97072_description.ogg"] = 24.88,
+    ["97073_completion.ogg"] = 14.55,
     ["97073_description.ogg"] = 11.70,
     ["97075_completion.ogg"] = 12.24,
     ["97075_description.ogg"] = 12.24,
