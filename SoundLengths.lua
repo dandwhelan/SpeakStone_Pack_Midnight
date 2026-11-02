@@ -3966,4 +3966,9 @@ SpeakStoneSoundLengths_Pack_Midnight = {
     ["99306_description.ogg"] = 11.84,
     ["99312_completion.ogg"] = 1.44,
     ["99312_description.ogg"] = 9.76,
+    ["zonelore_2393.ogg"] = 20.00,
+    ["zonelore_2395.ogg"] = 20.96,
+    ["zonelore_2405.ogg"] = 18.00,
+    ["zonelore_2413.ogg"] = 18.72,
+    ["zonelore_2437.ogg"] = 18.32,
 }

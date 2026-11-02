@@ -1816,6 +1816,7 @@ local T = {
 ["93396_description"]="16,82,163,188,204,222,240",
 ["93400_description"]="12,70,103,130,141,177,196,240",
 ["93401_description"]="16,62",
+["93409_completion"]="8",
 ["93413_description"]="11,26,32,55",
 ["93416_description"]="46",
 ["93417_completion"]="37",
@@ -2805,6 +2806,8 @@ local T = {
 ["99306_completion"]="25",
 ["99306_description"]="58,82",
 ["99312_description"]="71",
+["zonelore_2395"]="46,98,165",
+["zonelore_2437"]="62,132",
 }
 if SpeakStone_RegisterSentenceTimings then
     SpeakStone_RegisterSentenceTimings(addonName, T, 10)
